@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deepakkapoor1982
 - 👀 I’m interested in learning more about JavaScript
-- 🌱 I’m currently learning ES6 and advanced JavaScript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Please contact me via email at gofordeepak@gmail.com
 
